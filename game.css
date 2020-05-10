@@ -1,0 +1,34 @@
+body {
+    text-align: center; 
+}
+
+.topTitle {
+    font-family: sans-serif; 
+}
+
+table {
+    margin: auto; 
+
+    margin-bottom: 2.5%; 
+
+    border: 2px solid; 
+    border-color: black;
+}
+
+td {
+    border: 2px solid; 
+    border-color: black; 
+
+    height: 5rem;
+    width: 5rem; 
+
+    text-align: center; 
+}
+
+.gameButton {
+    height: 3rem;
+    width: 5rem;
+
+    background-color: black;
+    color: white;  
+}
